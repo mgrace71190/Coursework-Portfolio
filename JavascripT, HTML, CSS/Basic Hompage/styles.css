@@ -1,0 +1,26 @@
+#Mark {
+    font-family: Arial;
+    font-style: italic;
+    font-size : 70px;
+    text-emphasis: bold;
+    color: #6495ED;
+}
+.about{
+    font-family: Arial;
+    font-size : 60px;
+    text-emphasis: bold;
+    color: #ffd4c8;
+}
+
+h2{
+    color: #6495ED;
+}
+
+
+li:hover{
+    color: #6495ED;
+}
+
+tr:hover{
+    color:#ffd4c8;
+}
